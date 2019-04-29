@@ -1,4 +1,4 @@
-# Installed software
+# System informations
 
 Powershell GUI for gathering specific informations form your (in since remote ) computer.
 
